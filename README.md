@@ -1,18 +1,13 @@
 
 
-### Hi there, I'm Dramarec 👋  [<img align="left" alt="LinkedIn" width="80" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/linkedin.ico" />]( https://www.linkedin.com/in/dramarec/)
-
-
+### Hi there, I'm Oleg Dramaretskyi 👋  [<img align="left" alt="LinkedIn" width="80" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/linkedin.ico" />]( https://www.linkedin.com/in/dramarec/)
 
 ## Introduction
 - 🌱 I’m currently learning  TypeScript, ReactNative and GraphQL
 - 🏋️ Workout everyday!
-
-
 <br />
 
 ### Languages and Tools
-
 <img align="left" alt="HTML5" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /> 
 <img align="left" alt="Sass" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" /> 
@@ -33,8 +28,7 @@
 <br />
 <br />
 
-
-[![dramarec`s github stats](https://github-readme-stats.vercel.app/api?username=dramarec&show_icons=true&)](https://github.com/dramarec/github-readme-stats)
+<!-- [![dramarec`s github stats](https://github-readme-stats.vercel.app/api?username=dramarec&show_icons=true&)](https://github.com/dramarec/github-readme-stats) -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dramarec&layout=compact)](https://github.com/dramarec/github-readme-stats)
 
