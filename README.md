@@ -4,7 +4,7 @@
 
 ## Introduction
 - 🌱 Always in the process of growing
-- 🏋️ Workout everyday!
+- 🏋️ Workout everyday
 <br />
 
 ### Languages and Tools
