@@ -3,7 +3,7 @@
 ### Hi there, I'm Oleg Dramaretskyi 👋  [<img align="left" alt="LinkedIn" width="80" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/linkedin.ico" />]( https://www.linkedin.com/in/dramarec/)
 
 ## Introduction
-- 🌱 I’m currently learning  TypeScript, ReactNative and GraphQL
+- 🌱 Always in the process of growing
 - 🏋️ Workout everyday!
 <br />
 
